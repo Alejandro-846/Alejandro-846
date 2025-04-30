@@ -90,6 +90,20 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <!-- Fortinet -->
+  <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fortinet_logo.svg/2560px-Fortinet_logo.svg.png" alt="fortinet" width="80" height="40"/>
+  </a>
+  
+  <!-- Cisco -->
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo_blue_2016.svg" alt="cisco" width="80" height="40"/>
+  </a>
+  
+  <!-- MikroTik -->
+  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Mikrotik_Logo.png" alt="mikrotik" width="80" height="40"/>
+  </a>
 </p>
 
 ---
