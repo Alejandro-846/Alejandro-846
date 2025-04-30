@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Víctor Alejandro</h1>
 <h3 align="center">🚀 Full-Stack Developer | ☕ Coffeepreneur | 🏍️ Motorcycle Adventurer</h3>
 
+![Banner](Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+
 <p align="center">
   <a href="https://github.com/Alejandro-846"><img src="https://img.shields.io/github/followers/Alejandro-846?label=GitHub%20Followers&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/victor-alejandro-pab%C3%B3n-villamizar-36294b203/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&label=LinkedIn" alt="LinkedIn"></a>
