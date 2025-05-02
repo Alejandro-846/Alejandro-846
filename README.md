@@ -23,35 +23,17 @@
 - 💼 **[Sereno](https://github.com/Alejandro-846/Sereno)** — Web platform for my premium handcrafted coffee brand ☕ with elegant UI and eCommerce potential.
 
 ---
+<div align="center">
 
-### 🤝 I’m open to collaborate on  
-- 🔐 Cybersecurity mini-projects  
-- ⚙️ Automation scripts (Python, PowerShell)  
-- 🌐 Web apps (landing pages, dashboards, stores)
+| 🤝 Collaborate On | 💬 Help With | 🌱 Currently Learning | 🧠 Ask Me About |
+|------------------|--------------|------------------------|----------------|
+| 🔐 Cybersecurity Projects<br>🛡️ (Fortinet, Cisco, Mikrotik) | 🎨 UI/UX Design | ☁️ AWS | 🤖 Python Automation |
+| ⚙️ Automation (Python, PowerShell) | ✅ Testing (Unit, Integration, E2E) | ⚛️ Next.js | 🌐 API Integrations |
+| 🌐 Web Apps (Landing Pages, Dashboards) | 🧼 Code Review & Clean Code | 🎨 Tailwind CSS | 🧰 Full-stack Web Apps |
+|  |  | 🐳 Docker | 🗃️ SQL / NoSQL Databases |
+|  |  | 🧱 Architecture & Design Patterns |  |
 
----
-
-### 💬 I’m looking for help with  
-- 🎨 UI/UX design  
-- ✅ Testing best practices (unit, integration, E2E)  
-- 🧼 Clean code, code review feedback
-
----
-
-### 🌱 I’m currently learning  
-- ☁️ **AWS**  
-- ⚛️ **Next.js**  
-- 🎨 **Tailwind CSS**  
-- 🐳 **Docker**  
-- 🧱 **Clean Architecture & Design Patterns**
-
----
-
-### 🧠 Ask me about  
-- 🤖 Python automation  
-- 🌐 API integrations  
-- 🧰 Full-stack web apps  
-- 🗃️ SQL / NoSQL databases
+</div>
 
 ---
 
